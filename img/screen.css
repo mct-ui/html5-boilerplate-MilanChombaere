@@ -97,17 +97,6 @@ figure {
   margin-bottom: 1.5rem;
 }
 
-ul,
-ol {
-  padding: 0;
-  list-style-position: inside;
-}
-
-li ul,
-li ol {
-  margin-bottom: 0;
-}
-
 blockquote {
   font-family: "Times New Roman", Times, serif;
   font-size: 1.423828125rem;
@@ -121,13 +110,6 @@ figcaption {
   line-height: 1rem;
   margin-top: 0.5rem;
   color: hsl(198.0786026201, 10%, 50%);
-}
-
-hr {
-  border: 0;
-  height: 1px;
-  background: hsl(198.0786026201, 10%, 90%);
-  margin-bottom: 1.5rem;
 }
 
 /*---------------------------------------/*
